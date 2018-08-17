@@ -1,0 +1,3 @@
+java -jar cupones.jar
+
+set /p DUMMY=Hit ENTER to continue...
